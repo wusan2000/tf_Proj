@@ -1,0 +1,20 @@
+lstm/lstm_cell/kernel:0
+(34, 1200)
+lstm/lstm_cell/recurrent_kernel:0
+(300, 1200)
+lstm/lstm_cell/bias:0
+(1200,)
+lstm_1/lstm_cell_1/kernel:0
+(300, 400)
+lstm_1/lstm_cell_1/recurrent_kernel:0
+(100, 400)
+lstm_1/lstm_cell_1/bias:0
+(400,)
+dense/kernel:0
+(100, 32)
+dense/bias:0
+(32,)
+dense_1/kernel:0
+(32, 2)
+dense_1/bias:0
+(2,)
